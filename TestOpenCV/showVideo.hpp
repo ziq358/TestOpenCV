@@ -10,5 +10,8 @@
 #define showVideo_hpp
 
 #include <stdio.h>
+#include <opencv2/opencv.hpp>
+
+void testVideo();
 
 #endif /* showVideo_hpp */

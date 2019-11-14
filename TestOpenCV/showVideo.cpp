@@ -7,3 +7,19 @@
 //
 
 #include "showVideo.hpp"
+
+using namespace cv;
+using std::string;
+
+void testVideo(){
+    string path = "/Users/johnwu/Downloads/bg.jpeg";
+    Mat image = imread(path);
+    namedWindow("origin");
+    imshow("origin", image);
+    
+    Mat gray;
+    cvtColor(image, gray, COLOR_RGBA2GRAY);
+    namedWindow("gray");
+    imshow("gray", gray);
+    waitKey(0);
+}

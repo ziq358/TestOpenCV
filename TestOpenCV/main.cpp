@@ -6,10 +6,17 @@
 //  Copyright © 2019年 johnwu. All rights reserved.
 //
 
-#include <iostream>
+#include "showImage.hpp"
+#include "showVideo.hpp"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    
+    // 显示图片  灰色
+//    testImage();
+    //显示 视频
+    testVideo();
+    
     return 0;
 }
+
+
