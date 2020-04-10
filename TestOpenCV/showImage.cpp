@@ -11,7 +11,7 @@ using namespace cv;
 using std::string;
 
 void testImage(){
-    string path = "/Users/johnwu/Downloads/bg.jpeg";
+    string path = "./resource/bg.jpg";
     Mat image = imread(path);
     namedWindow("origin");
     imshow("origin", image);
