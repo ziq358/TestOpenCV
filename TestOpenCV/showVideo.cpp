@@ -8,18 +8,17 @@
 
 #include "showVideo.hpp"
 
-using namespace cv;
 using std::string;
 
 void testVideo(){
-    string path = "/Users/johnwu/Downloads/bg.jpeg";
-    Mat image = imread(path);
-    namedWindow("origin");
-    imshow("origin", image);
+    string path = "/Users/wuyanqiang/Documents/opencv/TestOpenCV/resource/bg.jpg";
+    cv::Mat image = cv::imread(path);
+    cv::namedWindow("origin");
+    cv::imshow("origin", image);
     
-    Mat gray;
-    cvtColor(image, gray, COLOR_RGBA2GRAY);
-    namedWindow("gray");
-    imshow("gray", gray);
-    waitKey(0);
+    cv::Mat gray;
+    cvtColor(image, gray, cv::COLOR_RGBA2GRAY);
+    cv::namedWindow("gray");
+    cv::imshow("gray", gray);
+    cv::waitKey(0);
 }

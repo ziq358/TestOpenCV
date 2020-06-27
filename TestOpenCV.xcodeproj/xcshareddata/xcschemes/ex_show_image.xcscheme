@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1B4D599E237DA48800FC9CE1"
-               BuildableName = "video"
-               BlueprintName = "video"
+               BlueprintIdentifier = "CB389ED724A6EF6A003BB87E"
+               BuildableName = "ex_show_image"
+               BlueprintName = "ex_show_image"
                ReferencedContainer = "container:TestOpenCV.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -44,9 +44,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1B4D599E237DA48800FC9CE1"
-            BuildableName = "video"
-            BlueprintName = "video"
+            BlueprintIdentifier = "CB389ED724A6EF6A003BB87E"
+            BuildableName = "ex_show_image"
+            BlueprintName = "ex_show_image"
             ReferencedContainer = "container:TestOpenCV.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -61,9 +61,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1B4D599E237DA48800FC9CE1"
-            BuildableName = "video"
-            BlueprintName = "video"
+            BlueprintIdentifier = "CB389ED724A6EF6A003BB87E"
+            BuildableName = "ex_show_image"
+            BlueprintName = "ex_show_image"
             ReferencedContainer = "container:TestOpenCV.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

@@ -9,7 +9,7 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>video.xcscheme_^#shared#^_</key>
+		<key>ex_show_image.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
@@ -23,6 +23,16 @@
 			<true/>
 		</dict>
 		<key>1B552079237C57FE00BCE1D0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CB389E7124A6EF1F003BB87E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CB389ED724A6EF6A003BB87E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -12,9 +12,9 @@
 int main(int argc, const char * argv[]) {
     
     // 显示图片  灰色
-    testImage();
+//    testImage();
     //显示 视频
-//    testVideo();
+    testVideo();
     
     return 0;
 }
