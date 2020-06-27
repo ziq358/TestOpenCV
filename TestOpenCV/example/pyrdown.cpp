@@ -13,7 +13,7 @@ using namespace cv;
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    string path = "/Users/wuyanqiang/Documents/opencv/TestOpenCV/resource/bg.jpg";
+    string path = "/Users/wuyanqiang/Documents/opencv/TestOpenCV/resource/BlueCup.jpg";
     
     
     cv::Mat img1,img2;
